@@ -1,2 +1,2 @@
-# graduation_project
+# graduation-project
 2023 SKKU Graduation Project
